@@ -5,7 +5,7 @@ const Author = () => {
   return (
     <div className="fixed bottom-1.5 right-1.5 z-10">
       <a
-        href="https://ahad324.github.io/AllProjects/"
+        href="https://github.com/ahad324/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center w-12 bg-[--author-bg] text-[--author-text-color] text-xs p-2 rounded-lg border-2 border-[--author-text-color] transition-all duration-300 ease-in-out overflow-hidden whitespace-nowrap hover:w-48"
